@@ -1,0 +1,12 @@
+127.0.0.1 - - [15/May/2024:14:41:57 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [15/May/2024:14:42:49 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/May/2024:14:42:51 +0530] "GET /Spring-Mvc-Food-App/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [15/May/2024:14:42:51 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [15/May/2024:14:43:31 +0530] "GET /Spring-Mvc-Food-App/index.jsp HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [15/May/2024:14:43:52 +0530] "GET /Spring-Mvc-Food-App/menu.jsp HTTP/1.1" 200 335
+0:0:0:0:0:0:0:1 - - [15/May/2024:14:44:02 +0530] "GET /Spring-Mvc-Food-App/submitorder HTTP/1.1" 500 79153
+0:0:0:0:0:0:0:1 - - [15/May/2024:14:44:28 +0530] "GET /Spring-Mvc-Food-App/login.jsp HTTP/1.1" 200 497
+0:0:0:0:0:0:0:1 - - [15/May/2024:14:44:40 +0530] "POST /Spring-Mvc-Food-App/adminfeatures HTTP/1.1" 500 79153
+0:0:0:0:0:0:0:1 - - [15/May/2024:14:45:10 +0530] "GET /Spring-Mvc-Food-App/loginuser.jsp HTTP/1.1" 200 493
+0:0:0:0:0:0:0:1 - - [15/May/2024:14:45:19 +0530] "POST /Spring-Mvc-Food-App/loginuser HTTP/1.1" 500 79153
+0:0:0:0:0:0:0:1 - - [15/May/2024:14:45:35 +0530] "GET /Spring-Mvc-Food-App/addProduct.jsp HTTP/1.1" 500 3012

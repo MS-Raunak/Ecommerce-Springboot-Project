@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\JAVA_J2EE\springboot projects\springboot-ecommerce\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1222335234.index
+2243755960.index
+804091742.index
+2724843378.index
+455877794.index
+2746401860.index

@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+D:\JAVA_J2EE\springboot projects\springboot-ecommerce\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

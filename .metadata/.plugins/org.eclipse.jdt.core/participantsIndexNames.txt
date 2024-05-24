@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+D:\JAVA_J2EE\springboot projects\springboot-ecommerce\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4233930145.index
+\spring-mvc-food-app-main\src\main\java
+D:\JAVA_J2EE\springboot projects\springboot-ecommerce\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4152669816.index
+\shopping_cart\src\main\java
