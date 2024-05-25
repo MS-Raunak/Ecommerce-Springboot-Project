@@ -1,3 +1,4 @@
+/*
 package com.ms.configuration;
 
 import java.io.IOException;
@@ -53,3 +54,4 @@ public class GoogleAuth2SuccessHandler  implements AuthenticationSuccessHandler{
 		
 	}
 }
+*/

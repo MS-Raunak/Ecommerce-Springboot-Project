@@ -1,3 +1,4 @@
+/**
 package com.ms.model;
 
 import java.util.ArrayList;
@@ -55,3 +56,4 @@ public class CustomUserDetail extends User implements UserDetails{
 	}
 
 }
+*/

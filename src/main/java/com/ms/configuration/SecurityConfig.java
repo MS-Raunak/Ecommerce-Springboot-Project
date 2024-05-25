@@ -1,3 +1,5 @@
+
+/*
 package com.ms.configuration;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -72,3 +74,4 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 		web.ignoring().antMatchers("/resources/**", "/static/**", "/images/**", "/productImages/**", "/css/**", "/js/**");
 	}
 }
+*/
